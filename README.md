@@ -6,8 +6,8 @@
 <head>
 
 <!-- Content -->
-<h1 id="exela-stealer">Exela Stealer</h1>
-<p>Exela Stealer, a powerful and feature-rich tool, offers the following functionalities:<br>
+<h1 id="exela-stealer">Nexus Stealer</h1>
+<p>Nexus Stealer, a powerful and feature-rich tool, offers the following functionalities:<br>
    <a href="https://t.me/ExelaStealer">Telegram Adress</a> - Join our Telegram channel for the latest developments
 </p>
 
@@ -78,7 +78,7 @@
   <li>:arrow_down: Download and Install <a href="https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe">python 3.11.0</a></li>
   <li>:arrow_down: <a href="https://github.com/quicaxd/Exela-V2.0/archive/refs/heads/main.zip">Download Exela Stealer</a></li>
   <li>:arrow_down: <a href="https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file">Extract</a> the zip file.</li>
-  <li>:point_right: Navigate to the Exela Stealer folder and double click <code>install.bat</code>.</li>
+  <li>:point_right: Navigate to the Nexus Stealer folder and double click <code>install.bat</code>.</li>
   <li>:rocket: Follow the on-screen instructions to complete the setup.</li>
 </ol>
 
@@ -96,16 +96,9 @@
 
 <!-- Notes Section -->
 <h2 id="notes">Note's 📢</h2>
-<p>- If you have any issues or need support with this project, you can contact me via <a href="https://t.me/quicaxd">Telegram</a>:speech_balloon:</p>
+<p>- If you have any issues or need support with this project, you can contact me via <a href="casparxv">Discord</a>:speech_balloon:</p>
 
 <!-- Support the Project Section -->
-<h2 id="support-the-project">Support the Project</h2>
-<p>If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:</p>
-<ul>
-  <li><strong>Bitcoin (BTC):</strong> Wallet Address: bc1qy8r6ck0c5nqcyhgnhvlpc0drjp9c2lergjqy5d</li>
-  <li><strong>Ethereum (ETH):</strong> Wallet Address: 0x6285dCe8F35d7f31FBf41a648CC35212caF690B1</li>
-  <li><strong>USDT (Tron network):</strong> Wallet Address: TGRk3pvcWvoKrXMDATPrVstQHa9c9hqhHQ</li>
-</ul>
 
 <!-- Screenshots Section -->
 <h2 id="screenshots">Screenshots 📸</h2>
