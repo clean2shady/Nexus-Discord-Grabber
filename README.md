@@ -8,7 +8,6 @@
 <!-- Content -->
 <h1 id="exela-stealer">Nexus Stealer</h1>
 <p>Nexus Stealer, a powerful and feature-rich tool, offers the following functionalities:<br>
-   <a href="https://t.me/ExelaStealer">Telegram Adress</a> - Join our Telegram channel for the latest developments
 </p>
 
 <!-- Features Section -->
